@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pyopengl
-URL = https://files.pythonhosted.org/packages/72/b6/970868d44b619292f1f54501923c69c9bd0ab1d2d44cf02590eac2706f4f/PyOpenGL-3.1.7.tar.gz
+URL = https://files.pythonhosted.org/packages/c0/42/71080db298df3ddb7e3090bfea8fd7c300894d8b10954c22f8719bd434eb/pyopengl-3.1.9.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
