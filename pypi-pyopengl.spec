@@ -7,7 +7,7 @@
 #
 Name     : pypi-pyopengl
 Version  : 3.1.9
-Release  : 39
+Release  : 40
 URL      : https://files.pythonhosted.org/packages/c0/42/71080db298df3ddb7e3090bfea8fd7c300894d8b10954c22f8719bd434eb/pyopengl-3.1.9.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c0/42/71080db298df3ddb7e3090bfea8fd7c300894d8b10954c22f8719bd434eb/pyopengl-3.1.9.tar.gz
 Summary  : Standard OpenGL bindings for Python
